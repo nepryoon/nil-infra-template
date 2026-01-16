@@ -1,6 +1,8 @@
 # NIL — Infra Template (ML Systems)
 
-**Evidence index:** https://www.neuromorphicinference.com/evidence  
+> **Live docs:** https://www.neuromorphicinference.com/demos/infra-template  
+> **Evidence index:** https://www.neuromorphicinference.com/evidence  
+> **Demos hub:** https://www.neuromorphicinference.com/demos
 
 ## Goal
 A reusable template for production-minded ML repos: quality gates, Docker, CI, and release tags (build provenance).
